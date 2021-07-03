@@ -2,27 +2,39 @@
  "tasks":[
         {
           "id": 1,
-          "title": "Task 1",
-          "description": "description for task 1",
-          "location": "Valletta",
-          "date": "1st of Jan",
-          "time": "12:00"
+          "title": "Minecraft Annual 2022",
+          "author": "Mojang AB",
+          "image": "http://books.google.com/books/content?id=MrRczgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71NB3rb1BmdcQpCvE50ZB35A6PD6t8yePuzSbmF-575DFwrtTaFkk40fqditZRsiVWU3-xz2Utl0ipZZrRSL3XrVvnGgttMS0hYylx2lP9BDPqRmTuDLmvpkIVU_dtm_Di3EqJY&source=gbs_api"
         },
         {
           "id": 2,
-          "title": "Task 2",
-          "description": "description for task 2",
-          "location": "Birkirkara",
-          "date": "2nd of Jan",
-          "time": "14:00"
+          "title": "Sql programming",
+          "author": "Damon Parker",
+          "image": "http://books.google.com/books/publisher/content?id=J74yEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72ia4zDfbvTi9zP0TuqplC20m_Beb97Se86_2wzWQZ5uT8it1G4VKOqrFxS--ZN20kjrn1Dzhv9wiy5-a6DsXDqB2qpoiVoB5V9f9zhIzVsSRleu9LzBDz0H4b4zmLeOkuYRM5p&source=gbs_api"
         },
         {
           "id": 3,
-          "title": "Task 3",
-          "description": "description for task 3",
-          "location": "Mosta",
-          "date": "3rd of Jan",
-          "time": "16:00"
+          "title": "A Day in Code- Python",
+          "author": "Shari Eskenas",
+          "image": "http://books.google.com/books/content?id=lhh4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+          "id": 4,
+          "title": "Adobe Photoshop 2021 in 1 hour",
+          "artist": "Post Malone",
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/PostMaloneRockstar.jpg/220px-PostMaloneRockstar.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Minions: Seek and Find",
+          "artist": "Trey King",
+          "image": "http://books.google.com/books/content?id=nwLWrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        {
+          "id": 6,
+          "title": "Overwatch Anthology: Expanded Edition",
+          "artist": "Matt Burns",
+          "image": "http://books.google.com/books/content?id=uPE0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         }
       ] 
 }
